@@ -1,0 +1,87 @@
+@charset "ISO-8859-1";
+img {
+	height: 80px;
+	
+}
+body {
+	font-family: Arial, sans-serif;
+	background-color: #73AB95;
+	
+}
+.flex-container {
+	
+	display: flex;
+	flex-direction: row;
+	border: none;
+	background-color: lightgoldenrodyellow;
+	width: 400px;
+	height: 80px;
+		border-radius: 5px;
+		margin: auto;
+		
+}
+
+h1 {
+	color: darkgreen;
+	text-align: center;
+	font-family: Comic Sans MS;
+}
+h2 {
+	color: #555;
+	
+}
+
+
+ .account {
+	 max-width: 800px;
+	
+	
+	 text-align: center;
+	 border: 5px outset brown;
+	background-color: lightyellow;
+	margin: auto;
+	margin-top: 20px;
+	  border-radius: 5px;
+	  
+	 
+	
+}
+.upload {
+	max-width: 800px;
+   
+	
+	 text-align: center;
+	
+	 background-color: lightgrey;
+	
+	  border-radius: 5px;
+}
+.id {
+	margin-bottom: 15px;
+	padding-left: 20px;
+	
+}
+.id label {
+	float: left;
+	display: flex;
+	
+		
+}
+.id input {
+	width: 60%;
+	padding: 5px;
+	font-size: 16px;
+		border-radius: 5px;
+		border: 2px solid #ccc;
+		}
+	button {	
+		display: inline-block;
+	padding: 10px 20px;
+	font-size: 16px;
+	text-decoration: none;
+	background-color: #4CAF50;
+	color: white;
+	border-radius: 5px;
+}
+		
+	
